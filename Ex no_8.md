@@ -42,8 +42,8 @@ int main()
 ```
 
 ## Output:
+<img width="837" height="247" alt="image" src="https://github.com/user-attachments/assets/ecc59af7-890f-4758-92e9-27d26bac22f8" />
 
-![image](https://github.com/user-attachments/assets/6bf32a33-8023-476f-9c7a-d444337e755a)
 
 
 
